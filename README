@@ -1,1 +1,4 @@
 Maven project demonstrating Spring MVC and Atmosphere framework integration.
+To run the project:
+cd spring-atmosphere
+mvn jetty:run
